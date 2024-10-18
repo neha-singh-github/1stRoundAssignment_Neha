@@ -1,9 +1,10 @@
 import './App.css';
+import WebPage from './components/WebPage';
 
 function App() {
   return (
     <div className='App'>
-      <h1>Hey Neha! Now you are starting your first round Assignment.</h1>
+      <WebPage />
     </div>
   );
 }
